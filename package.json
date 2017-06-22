@@ -6,9 +6,20 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "express",
+    "middleware",
+    "monitor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dreamdevil00/express-ping-win-posix.git"
+  },
+  "author": "dreamdevil00",
+  "bugs": {
+    "url": "https://github.com/dreamdevil00/express-ping-win-posix/issues"
+  },
+  "license": "MIT",
   "dependencies": {
     "async": "^2.4.1",
     "diskusage": "^0.2.2",
