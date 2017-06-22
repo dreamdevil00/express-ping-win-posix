@@ -1,0 +1,17 @@
+{
+  "name": "express-ping-win-posix",
+  "version": "1.0.0",
+  "description": "Since the npm package express-ping can not get disk free in windows,\r It's a good idea to make it support windows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.4.1",
+    "diskusage": "^0.2.2",
+    "drivelist": "^5.0.22"
+  }
+}

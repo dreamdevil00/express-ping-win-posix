@@ -1,0 +1,10 @@
+{
+  "name": "express-ping-win-posix-example",
+  "version": "1.0.0",
+  "description": "Express Health example",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
