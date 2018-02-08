@@ -1,6 +1,6 @@
 {
-  "name": "express-ping-win-posix",
-  "version": "1.0.0",
+  "name": "@dream/express-ping-win-posix",
+  "version": "0.1.0",
   "description": "Since the npm package express-ping can not get disk free in windows,\r It's a good idea to make it support windows",
   "main": "index.js",
   "scripts": {
